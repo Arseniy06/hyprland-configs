@@ -37,7 +37,6 @@
     "format": "{}",
     "format-en": "EN",
     "format-ru": "RU",
-    "on-click": "hyprctl keyword input:kb_layout ru"
     //"keyboard-name": "at-translated-set-2-keyboard"
 },
     // Modules configuration
