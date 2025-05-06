@@ -37,7 +37,7 @@
     "format": "{}",
     "format-en": "EN",
     "format-ru": "RU",
-    "on-click": "xdotool key alt+shift"
+    "on-click": "hyprctl keyword input:kb_layout ru"
     //"keyboard-name": "at-translated-set-2-keyboard"
 },
     // Modules configuration
